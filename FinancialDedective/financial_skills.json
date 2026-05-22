@@ -1,0 +1,24 @@
+{
+    "sirket_politikalari": {
+        "genel_onay_limiti_tl": 50000,
+        "kategori_limitleri_tl": {
+            "Yemek": 2500,
+            "Konaklama": 10000,
+            "Yolculuk": 15000,
+            "Ofis Malzemesi": 5000,
+            "Ekipman": 30000,
+            "Egitim": 15000
+        },
+        "yasakli_saatler": {
+            "baslangic": 22,
+            "bitis": 6
+        },
+        "haftasonu_yasagi": true,
+        "zorunlu_aciklama_uzunlugu": 10,
+        "kara_liste_kelimeler": [
+            "gece kulüb", "kulüb", "şahsi", "tatil", "pavyon", "kumar", 
+            "alkol", "eğlence", "masaj", "spa", "konsol", "playstation", 
+            "kripto", "bahis", "netflix", "spotify", "cezası", "trafik"
+        ]
+    }
+}

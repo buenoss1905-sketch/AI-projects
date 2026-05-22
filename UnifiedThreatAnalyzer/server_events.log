@@ -1,0 +1,15 @@
+2026-05-21 08:30:15|HTTP|192.168.1.10|GET /index.html 200 OK - Normal Ziyaretci
+2026-05-21 08:32:00|HTTP|192.168.1.15|GET /api/v1/products 200 OK
+2026-05-21 11:05:22|HTTP|203.0.113.88|GET /robots.txt 200 OK
+2026-05-21 11:06:10|HTTP|203.0.113.88|GET /admin/login.php 404 Not Found
+2026-05-21 11:07:05|HTTP|203.0.113.88|GET /backend/auth/login 200 OK
+2026-05-21 11:10:00|HTTP|203.0.113.88|POST /backend/auth/login payload=%27%20OR%201%3D1%20-- 403 Forbidden
+2026-05-21 11:25:00|HTTP|192.168.1.20|GET /about-us.html 200 OK
+2026-05-21 14:15:00|SSH|203.0.113.88|Failed password for user admin from 203.0.113.88 port 40111 ssh2
+2026-05-21 15:00:00|HTTP|192.168.1.10|POST /api/webhook/whatsapp_bot 200 OK - Message Processed
+2026-05-21 16:30:00|SSH|203.0.113.88|Failed password for user root from 203.0.113.88 port 42333 ssh2
+2026-05-21 18:45:12|HTTP|88.22.11.2|GET /forum/post.php?comment=%3Cscript%3Ealert%281%29%3C%2Fscript%3E 200 OK
+2026-05-22 03:15:00|HTTP|203.0.113.88|POST /backend/auth/login 200 OK - User: superadmin_auth_success
+2026-05-22 03:15:05|HTTP|203.0.113.88|GET /api/v1/users/export_all_database 200 OK - Bytes transferred: 54500000
+2026-05-22 03:16:10|HTTP|203.0.113.88|GET /system/logs/clear_all 200 OK
+2026-05-22 09:00:00|HTTP|192.168.1.15|GET /index.html 200 OK - Normal Ziyaretci
