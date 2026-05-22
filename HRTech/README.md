@@ -21,3 +21,10 @@ Bu proje, şirketlerin İnsan Kaynakları departmanları için geliştirilmiş, 
 1. Repoyu klonlayın ve gerekli kütüphaneleri kurun:
    ```bash
    pip install streamlit chromadb sentence-transformers
+
+2. Uygulamayı başlatın:
+
+Bash
+streamlit run dashboard.py
+
+---
