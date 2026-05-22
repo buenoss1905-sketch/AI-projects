@@ -24,7 +24,7 @@ Bu proje, şirketlerin İnsan Kaynakları departmanları için geliştirilmiş, 
 
 2. Uygulamayı başlatın:
 
-Bash
-streamlit run dashboard.py
+   ```bash
+   streamlit run dashboard.py
 
 ---
