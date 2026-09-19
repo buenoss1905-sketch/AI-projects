@@ -12,7 +12,7 @@ bağımsız araçlar. Her klasör kendi başına çalışır; hepsi tamamen çev
 | [AITakipRobotu](AITakipRobotu/) | GitHub / Hugging Face / Civitai / arXiv kaynaklarını tarayıp yerel AI gelişmelerini raporlar; `--analyze` ile LM Studio üzerinden fırsat analizi | requests, LM Studio API |
 
 Daha büyük projeler ayrı repolarda:
-[Suru](https://github.com/buenoss1905-sketch/suru) ·
-[etsy-pipelines](https://github.com/buenoss1905-sketch/etsy-pipelines) ·
-[vn-character-pipeline](https://github.com/buenoss1905-sketch/vn-character-pipeline) ·
-[livedub](https://github.com/buenoss1905-sketch/livedub)
+[Suru](https://github.com/hasanycee/suru) ·
+[etsy-pipelines](https://github.com/hasanycee/etsy-pipelines) ·
+[vn-character-pipeline](https://github.com/hasanycee/vn-character-pipeline) ·
+[livedub](https://github.com/hasanycee/livedub)
