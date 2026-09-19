@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+*.db
+*.sqlite3
+*.mp3
+*.wav
+*.bin
+repomix-output.xml
+hr_vector_db/
+karakter_hafizasi_db/
+node_modules/
+.expo/
+.claude/
+# Ayri repolar
+Suru/
+LiveDub/
+VN_Characters/
+# Yayinlanmayanlar
+Chatbot/
+proposal/
+ComfyAgentSpace/
